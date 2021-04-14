@@ -11,7 +11,7 @@ Skills: ROS / python / Deep Learning / Machine Learning
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![Tarannum's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarannum-perween&show_icons=true&color=dark)  
+![Tarannum's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarannum-perween&show_icons=true&theme=dark)  
 
 
 
