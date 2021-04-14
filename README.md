@@ -3,11 +3,7 @@
 I’m currently working on Robot operating system and very much interested in Robotics and Artificial Intelligence. And Love to contribute to open source.
 
 ## Skills: 
-*  ROS
-*  Python
-*  Deep Learning/Machine Learning
-*  Linux
-*  V-rep
+*  ROS  * Gazebo *  Python  *  Deep Learning/Machine Learning *  Linux *  V-rep
 
 
 ## Connect with me:
