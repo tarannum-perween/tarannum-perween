@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tarannum
-#### currently, I am an undergraduate student at the National Institute of Technology, Hamirpur.
+#### Currently, I am an undergraduate student at the National Institute of Technology, Hamirpur.
 I’m currently working on Robot operating system and very much interested in Robotics and Artificial Intelligence. And Love to contribute to open source.
 
 ## Skills: 
