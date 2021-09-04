@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Q7WQ8KOuNcaSKzgWYjLHevyvcksjBQcM?usp=sharing)  
 ## Skills: 
-ROS / Gazebo / Python  /  Deep Learning / Machine Learning /  Linux /  V-rep / openCV
+ROS / Gazebo / Python  /  Deep Learning / Machine Learning /  Linux /  V-rep / OpenCV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
