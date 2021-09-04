@@ -2,10 +2,11 @@
 #### Currently, I am an undergraduate student at the National Institute of Technology, Hamirpur.
 I’m currently working on Robot operating system and very much interested in Robotics and Artificial Intelligence. And Love to contribute to open source.
 
+
+<iframe src="https://giphy.com/embed/PRVDslxfTmwXkLinrk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PRVDslxfTmwXkLinrk">via GIPHY</a></p>
+
 ## Skills: 
 ROS / Gazebo / Python  /  Deep Learning / Machine Learning /  Linux /  V-rep
-
-![github](<iframe src="https://giphy.com/embed/PRVDslxfTmwXkLinrk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PRVDslxfTmwXkLinrk">via GIPHY</a></p>)
 
 
 ## Connect with me:
