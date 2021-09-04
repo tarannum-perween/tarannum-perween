@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tarannum Perween</h1>
 <h3 align="center">I am an undergraduate student at the National Institute of Technology Hamirpur.</h3>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/43489868/132098286-8b46d519-1773-438c-826e-14e169403b68.gif)
-
-
 - 🔭 I’m currently working on **Robot operating system and very much interested in Robotics and Love to contribute to open source.**
 
-- 👨‍💻 All of my projects are available [Here](https://tarannum-perween.github.io/)              
+- 👨‍💻 All of my projects are available [Here](https://tarannum-perween.github.io/)                     ![ezgif com-gif-maker](https://user-images.githubusercontent.com/43489868/132098286-8b46d519-1773-438c-826e-14e169403b68.gif)         
 
 - 📄 Know about my experiences [Resume](https://github.com/tarannum-perween/Resume/blob/main/Tarannum_Resume.pdf)
 
