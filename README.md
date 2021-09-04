@@ -9,7 +9,7 @@
 - 📄 Know about my experiences [Resume](https://github.com/tarannum-perween/Resume/blob/main/Tarannum_Resume.pdf)
 
 ## Skills: 
-ROS / Gazebo / Python  /  Deep Learning / Machine Learning /  Linux /  V-rep
+ROS / Gazebo / Python  /  Deep Learning / Machine Learning /  Linux /  V-rep / openCV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
