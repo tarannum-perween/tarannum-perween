@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Robot operating system and very much interested in Robotics and Love to contribute to open source.**
 
-- 👨‍💻 All of my projects are available [Here](https://tarannum-perween.github.io/)               ![giphy](https://user-images.githubusercontent.com/43489868/132097247-3da60304-ba3a-4290-9ade-d7a72b1cfe7b.gif)
+- 👨‍💻 All of my projects are available [Here](https://tarannum-perween.github.io/)               ![giphy](img source = "https://user-images.githubusercontent.com/43489868/132097247-3da60304-ba3a-4290-9ade-d7a72b1cfe7b.gif" width="48" height="48" frameBorder="0")
 
 - 📄 Know about my experiences [Resume](https://github.com/tarannum-perween/Resume/blob/main/Tarannum_Resume.pdf)
 
