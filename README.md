@@ -1,20 +1,20 @@
-### Hi there 👋, my name is Tarannum
-#### Currently, I am an undergraduate student at the National Institute of Technology, Hamirpur.
-I’m currently working on Robot operating system and very much interested in Robotics and Artificial Intelligence. And Love to contribute to open source.
+<h1 align="center">Hi 👋, I'm Tarannum Perween</h1>
+<h3 align="center">Currently, I am an undergraduate student at the National Institute of Technology, Hamirpur.</h3>
 
-![giphy](https://user-images.githubusercontent.com/43489868/132097247-3da60304-ba3a-4290-9ade-d7a72b1cfe7b.gif)
+- 🔭 I’m currently working on **Robot operating system and very much interested in Robotics and Love to contribute to open source.**
 
-## Skills: 
-ROS / Gazebo / Python  /  Deep Learning / Machine Learning /  Linux /  V-rep
+- 📄 Know about my experiences [Resume](https://github.com/tarannum-perween/Resume/blob/main/Tarannum_Resume.pdf)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tarannum03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarannum03" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tarannum perween" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tarannum perween" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tperween20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tperween20" height="30" width="40" /></a>
+</p>
 
-## Connect with me:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarannum-perween&show_icons=true&locale=en" alt="tarannum-perween" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tarannum-perween.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tarannum03/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tperween103/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCpdDBBU4c_2ycT-BDL8OtoA)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarannum-perween&show_icons=true&theme=dark)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarannum-perween&" alt="tarannum-perween" /></p>
 
 
 
