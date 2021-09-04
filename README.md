@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Robot operating system and very much interested in Robotics and Love to contribute to open source.**
 
-- 👨‍💻 All of my projects are available [Here](https://tarannum-perween.github.io/)
+- 👨‍💻 All of my projects are available [Here](https://tarannum-perween.github.io/)               ![giphy](https://user-images.githubusercontent.com/43489868/132097247-3da60304-ba3a-4290-9ade-d7a72b1cfe7b.gif)
 
 - 📄 Know about my experiences [Resume](https://github.com/tarannum-perween/Resume/blob/main/Tarannum_Resume.pdf)
 
@@ -16,11 +16,8 @@
 <a href="https://www.hackerrank.com/tperween20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tperween20" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarannum-perween&show_icons=true&locale=en&layout=compact" alt="tarannum-perween" /></p>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarannum-perween&show_icons=true&theme=dark) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarannum-perween&" alt="tarannum-perween" /></p>
 
 
 
