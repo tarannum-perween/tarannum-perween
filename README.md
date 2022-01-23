@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tarannum Perween</h1>
 <h3 align="center">I am an undergraduate student at the National Institute of Technology Hamirpur.</h3>
 
-- 🔭 I’m currently working on **Robot operating system and very much interested in Robotics and Love to contribute to open source.**
+- 🔭 Exploring Motion planning, tracking algorithms, mapping and localization techniques, and control theory.
+- Worked on ROS, MoveIT, Gazebo, V-rep etc
+- Looking forward to collaborating with enthuasiastic people.
 
 - 👨‍💻 All of my projects are available [Here](https://tarannum-perween.github.io/)   
 <p><img align="Right" src="https://user-images.githubusercontent.com/43489868/132098286-8b46d519-1773-438c-826e-14e169403b68.gif" /></p>                                           
