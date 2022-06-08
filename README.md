@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://tarannum-perween.github.io/)   
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Q7WQ8KOuNcaSKzgWYjLHevyvcksjBQcM?usp=sharing)  
-<p><img align="Right" src="https://user-images.githubusercontent.com/43489868/132098286-8b46d519-1773-438c-826e-14e169403b68.gif" /></p>                                           
+                                                                      <p><img align="Right" src="https://user-images.githubusercontent.com/43489868/132098286-8b46d519-1773-438c-826e-14e169403b68.gif" /></p>                                           
 
 
 ## Skills: 
