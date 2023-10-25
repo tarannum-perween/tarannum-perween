@@ -21,7 +21,7 @@ ROS / Gazebo / Python  /  Deep Learning / Machine Learning /  Linux /  V-rep / O
 <a href="https://www.hackerrank.com/tperween20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tperween20" height="30" width="40" /></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarannum-perween&show_icons=true&theme=dark) 
+
 
 
 
