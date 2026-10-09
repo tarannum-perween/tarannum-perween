@@ -4,8 +4,10 @@
 - 🔭 Exploring Motion planning, tracking algorithms, mapping and localization techniques, and control theory.
 - Worked on ROS, MoveIT, Gazebo, V-rep etc
 - Looking forward to collaborating with enthuasiastic people.
-
-- 👨‍💻 All of my projects are available [Here]([https://tarannum-perween.github.io/](https://tarannum-perween.github.io/tarannum_portfolio/))   
+ 
+‎
+- 📄 Know about my experiences [Portfolio]([https://drive.google.com/drive/folders/1Q7WQ8KOuNcaSKzgWYjLHevyvcksjBQcM?usp=sharing](https://tarannum-perween.github.io/](https://tarannum-perween.github.io/tarannum_portfolio/))  
+                                                                      <p><img align="Right" src="https://user-images.githubusercontent.com/43489868/132098286-8b46d519-1773-438c-826e-14e169403b68.gif" /></p>     
                                          
 
 
