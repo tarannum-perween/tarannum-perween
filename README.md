@@ -18,7 +18,10 @@ ROS / Gazebo / Python  /  Deep Learning / Machine Learning /  Linux /  V-rep / O
 <p align="left">
 <a href="https://linkedin.com/in/tarannum03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarannum03" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCpdDBBU4c_2ycT-BDL8OtoA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tarannum perween" height="30" width="40" /></a>
-<a href="[https://auth.geeksforgeeks.org/user/tperween20](https://scholar.google.com/citations?user=W0lWWOAAAAAJ&hl=en&oi=ao)" target="blank"><img align="center" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=W0lWWOAAAAAJ" alt="Google Scholar" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=W0lWWOAAAAAJ&hl=en&oi=ao" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" />
+</a>
+
 </p>
 
 
